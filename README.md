@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend mentor](https://www.frontendmentor.io/solutions/article-preview-component-in-html-css-js-nJG066fJb6)
 - Live Site URL: [Github page](https://sylva2002.github.io/article-preview-component-master/)
 
 ## My process
